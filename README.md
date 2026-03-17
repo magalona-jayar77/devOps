@@ -1,4 +1,4 @@
-<h1>Roadmap.sh DevOps Projects</h1><br>
+<h1>Roadmap.sh DevOps Projects</h1>
 Server Performance Stats<br>
 Log Archive Tool<br>
 Nginx Log Analyser<br>
