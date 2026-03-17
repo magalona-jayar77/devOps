@@ -1,24 +1,22 @@
-#Roadmap.sh DevOps Projects/n
-Server Performance Stats
-Log Archive Tool
-Nginx Log Analyser
-GitHub Pages Deployment
-SSH Remote Server Setup
-Static Site Server
-Basic DNS Setup
-Simple Monitoring
-Dummy Systemd Service
-Basic Dockerfile
-EC2 Instance
-Configuration Management
-IaC on DigitalOcean
-Node.js Service Deployment
-Dockerized Service
-Multi-Container Application
-Automated DB Backups
-Blue-Green Deployment
-Prometheus and Grafana
-Multi-Service Application
-Service Discovery
-
-All projects can be found on roadmap.sh
+<h1>Roadmap.sh DevOps Projects</h1><br>
+Server Performance Stats<br>
+Log Archive Tool<br>
+Nginx Log Analyser<br>
+GitHub Pages Deployment<br>
+SSH Remote Server Setup<br>
+Static Site Server<br>
+Basic DNS Setup<br>
+Simple Monitoring<br>
+Dummy Systemd Service<br>
+Basic Dockerfile<br>
+EC2 Instance<br>
+Configuration Management<br>
+IaC on DigitalOcean<br>
+Node.js Service Deployment<br>
+Dockerized Service<br>
+Multi-Container Application<br>
+Automated DB Backups<br>
+Blue-Green Deployment<br>
+Prometheus and Grafana<br>
+Multi-Service Application<br>
+Service Discovery<br>
